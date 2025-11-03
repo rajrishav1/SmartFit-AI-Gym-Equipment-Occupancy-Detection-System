@@ -1,6 +1,6 @@
 # 🏋️‍♂️ SmartFit – Real-Time Equipment Availability Tracking at ASU Gym
 
-This projecT focuses on solving the problem of long wait times for gym equipment at ASU by using **real-time pose estimation** to monitor equipment usage.
+This project focuses on solving the problem of long wait times for gym equipment at ASU by using **real-time pose estimation** to monitor equipment usage.
 
 ## 🔍 Problem Overview
 
