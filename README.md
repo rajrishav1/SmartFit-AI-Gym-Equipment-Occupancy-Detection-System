@@ -1,4 +1,4 @@
-# SmartFit – Real-Time Equipment Availability Tracking at ASU Gym
+# SmartFit AI: Gym Equipment Occupancy Detection System.
 
 This project focuses on solving the problem of long wait times for gym equipment at ASU by using **real-time pose estimation** to monitor equipment usage.
 
